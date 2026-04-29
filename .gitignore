@@ -25,3 +25,5 @@ frontend/.env.production
 .vscode/
 .idea/
 *.log
+*.xlsx
+*.pdf

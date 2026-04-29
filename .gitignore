@@ -1,0 +1,27 @@
+# Java
+springboot/target/
+springboot/!.mvn/wrapper/maven-wrapper.jar
+springboot/.mvn/wrapper/maven-wrapper.properties
+springboot/mvnw
+springboot/mvnw.cmd
+springboot/.project
+springboot/.classpath
+springboot/.settings/
+springboot/*.iml
+springboot/*.ipr
+springboot/*.iws
+springboot/.idea/
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+frontend/.env
+frontend/.env.production
+
+# General
+.DS_Store
+.vscode/
+.idea/
+*.log
